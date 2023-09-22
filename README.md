@@ -1,4 +1,4 @@
-Hey dear friend! My name is Kirill, i'm frontend developer!
+Hey dear friend! My name is Kirill)
 ===============================================================================================================================
 
 <p align="left">
